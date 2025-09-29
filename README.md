@@ -1,4 +1,6 @@
 🌾 Contract Farming with Stable Market Access
+
+
 📌 Project Description
 
 The Contract Farming with Stable Market Access system is a desktop-based application developed using Java, SQL, and Java Swing.
